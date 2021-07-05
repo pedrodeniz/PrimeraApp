@@ -1,0 +1,16 @@
+.btn{
+    background-color: var(--ion-color-success);
+    color: white;
+    padding: 20px 30px 20px 30 px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+#container{
+    text-align: center;
+    position: absolute;
+    left: 20px;
+    right: 20px;
+    top: 90%;
+    transform: translateY(-50%);
+}
